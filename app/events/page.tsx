@@ -90,6 +90,7 @@ export default async function EventsPage() {
       {/* Upcoming Events */}
       <section className="mt-10">
         <h2 className="text-2xl font-semibold">Upcoming Events</h2>
+        <h3 className="p-2">*These are placeholders. They are not real events.</h3>
         <div className="mt-4 space-y-4">
           {displayUpcoming.length > 0 ? (
             displayUpcoming.map((event) => (
