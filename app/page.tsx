@@ -78,7 +78,7 @@ export default function HomePage() {
 
       {/* Social Links */}
       <section className="py-12 flex justify-center gap-4 flex-wrap">
-        <a href="#" className="btn btn-outline">
+        <a href="https://discord.gg/BSHJzr6qsS" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-5 w-5"
@@ -89,7 +89,7 @@ export default function HomePage() {
           </svg>
           Discord
         </a>
-        <a href="#" className="btn btn-outline">
+        <a href="https://www.instagram.com/clubcode_uf/" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-5 w-5"
@@ -100,7 +100,7 @@ export default function HomePage() {
           </svg>
           Instagram
         </a>
-        <a href="#" className="btn btn-outline">
+        <a href="/events" className="btn btn-outline">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-5 w-5"
